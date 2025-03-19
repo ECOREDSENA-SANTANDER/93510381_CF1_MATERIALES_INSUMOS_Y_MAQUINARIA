@@ -1,8 +1,9 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Fibras e hilos',
+    Description:
+      'Las fibras textiles han evolucionado desde naturales a artificiales, permitiendo características como impermeabilidad y resistencia, esenciales para satisfacer necesidades personales y laborales en la confección. La innovación en fibras ha mejorado la durabilidad y funcionalidad de las prendas.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/imagen-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
