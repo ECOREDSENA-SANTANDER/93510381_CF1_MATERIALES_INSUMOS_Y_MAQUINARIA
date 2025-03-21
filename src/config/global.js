@@ -36,13 +36,28 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Fibras',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Definición fibras',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Propiedades de las fibras textiles',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Clasificación de las fibras',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Tipos de fibras',
+            hash: 't_1_4',
           },
         ],
       },
@@ -50,14 +65,30 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Hilos',
         desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Tema 3',
-        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Propiedades y características',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Clasificación de hilos',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Tipos de hilos según su aplicación en la industria',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Recomendaciones para la selección del hilo',
+            hash: 't_2_4',
+          },
+        ],
       },
     ],
     subMenu: [
