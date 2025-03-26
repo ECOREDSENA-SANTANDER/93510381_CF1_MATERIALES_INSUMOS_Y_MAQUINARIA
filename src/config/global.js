@@ -132,7 +132,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/prueba.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -148,21 +148,132 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema 1',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
-      link: 'Link',
+      tema:
+        'Fibras textiles naturales sustentables y nuevos hábitos de consumo.',
+      referencia:
+        'Marín, C. V., & Monroy, B. G. (2013). Fibras textiles naturales sustentables y nuevos hábitos de consumo. Revista Legado de Arquitectura y Diseño, (13), 31-45.',
+      tipo: 'PDF',
+      link: 'https://www.redalyc.org/pdf/4779/477947372003.pdf',
+    },
+    {
+      tema: 'Hilos y sus propiedades.',
+      referencia:
+        'Ticona Apaza, L. & Humpiri Flórez, M.E. (2020). Aprendizaje de la resistencia a la tracción de hilos industriales en estudiantes de Ingeniería Téxtil. ÑAWPARISUN – Revista de Investigación Científica, 3 (1), 49-58.',
+      tipo: 'PDF',
+      link: 'https://www.unaj.edu.pe/revista/index.php/vpin/article/view/126',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Acetato',
+      significado:
+        'fibra textil sintética derivada de la celulosa, conocida por su brillo y suavidad, utilizada en telas ligeras y elegantes.',
+    },
+    {
+      termino: 'Asbesto',
+      significado:
+        'fibra mineral resistente al calor y al fuego, utilizada en aplicaciones industriales y de aislamiento.',
+    },
+    {
+      termino: 'Diámetro',
+      significado:
+        'medida del grosor de una fibra textil, expresada en micras, que influye en la textura y suavidad del tejido.',
+    },
+    {
+      termino: 'Elastano',
+      significado:
+        'fibra sintética altamente elástica, también conocida como spandex o lycra, utilizada en prendas deportivas y ajustadas.',
+    },
+    {
+      termino: 'Fibra',
+      significado:
+        'unidad básica de los textiles, de origen natural o sintético, que se hila para formar hilos y tejidos.',
+    },
+    {
+      termino: 'Filamento',
+      significado:
+        'fibra continua de gran longitud que puede ser natural (como la seda) o sintética.',
+    },
+    {
+      termino: 'Hilo',
+      significado:
+        'conjunto de fibras hiladas que se utiliza en la confección de tejidos y costuras.',
+    },
+    {
+      termino: 'Lana',
+      significado:
+        'fibra natural de origen animal obtenida de ovejas, conocida por su calidez y elasticidad.',
+    },
+    {
+      termino: 'Lino',
+      significado:
+        'fibra natural de origen vegetal obtenida del tallo del lino, caracterizada por su frescura y resistencia.',
+    },
+    {
+      termino: 'Longitud',
+      significado:
+        'distancia entre los extremos de una fibra textil, determinando su clasificación en filamentos, fibras cortas o cables de filamentos continuos.',
+    },
+    {
+      termino: 'Microfibra',
+      significado:
+        'fibra sintética extremadamente fina, utilizada en textiles de alto rendimiento debido a su suavidad y capacidad de absorción.',
+    },
+    {
+      termino: 'Monofilamento',
+      significado:
+        'hilo formado por un único filamento continuo, utilizado en aplicaciones industriales y textiles específicos.',
+    },
+    {
+      termino: 'Nailon',
+      significado:
+        'fibra sintética resistente y elástica, utilizada en ropa deportiva, medias y textiles industriales.',
+    },
+    {
+      termino: 'Poliéster',
+      significado:
+        'fibra sintética ampliamente utilizada en la industria textil por su resistencia, durabilidad y fácil mantenimiento.',
+    },
+    {
+      termino: 'Resistencia',
+      significado:
+        'capacidad de una fibra o tejido para soportar tensiones sin romperse o deformarse.',
+    },
+    {
+      termino: 'Seda',
+      significado:
+        'fibra natural producida por el gusano de seda, apreciada por su brillo, suavidad y resistencia.',
+    },
+    {
+      termino: 'Yute',
+      significado:
+        'fibra vegetal gruesa y resistente, utilizada en la fabricación de sacos, alfombras y cordeles.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia: 'Coats. (s.f.). Todo sobre hilos. España. Recuperado de',
+      link: 'https://www.coats.com/en-us/products/yarns/',
+    },
+    {
+      referencia:
+        'Coats. (s.f.). Todo sobre compuestos. España. Recuperado de ',
+      link: 'https://www.coats.com/en-us/products/composites/',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). (2009). Perfiles de 15 de las principales fibras de origen vegetal y animal. Recuperado de',
+      link:
+        'http://www.fao.org/natural-fibres-2009/about/15-natural-fibres/es/',
+    },
+    {
+      referencia:
+        'Carrera Gallissà, E. (2017). Física textil: propiedades físicas para caracterizar la calidad de las fibras textiles. Recuperado de ',
+      link: 'https://upcommons.upc.edu/handle/2117/106313',
+    },
+    {
+      referencia:
+        'SENA. (2013). Modistería: hilos y tela. Centro de Gestión de Mercados, logística y TIC´s: Bogotá, Colombia [Versión en línea].',
       link: '',
     },
   ],
@@ -171,14 +282,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -186,9 +297,19 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Olga Constanza Bermúdez James',
+          cargo: 'Asesora pedagógica',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Gissela del Carmen Alvis Ladino',
+          cargo: 'Asesora pedagógica',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -196,19 +317,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'Diseñadora de contenidos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Leonardo Castellanos Rodríguez',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y productor multimedia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -216,18 +337,19 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Erika Daniela Manrique Rueda',
+          cargo: 'Validadora de recursos educativos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'PENDIENTE ASIGNACIÓN',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
   ],
+
   creditosAdicionales: {
     imagenes:
       'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
