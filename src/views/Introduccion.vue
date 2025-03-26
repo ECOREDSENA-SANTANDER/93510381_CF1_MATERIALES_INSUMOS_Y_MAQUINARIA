@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-2.col-md-4.col-2
         img(src='@/assets/curso/temas/img_intro.png', alt='')
       .col-lg-10.col-md-12.col-sm-12
@@ -17,7 +17,7 @@
     
     p.mb-4 De igual manera las fibras aportan estas características a los hilos formando una unidad ideal y necesaria en la creación de los tejidos.
 
-    .row.justify-content-center.align-items-center           
+    .row.justify-content-center.align-items-center(data-aos="fade-up-left")           
       .col-lg-12
         figure
           .video
