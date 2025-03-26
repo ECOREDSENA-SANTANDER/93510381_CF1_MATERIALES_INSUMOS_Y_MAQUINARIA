@@ -10,7 +10,7 @@
       h1 Introducción
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
-      .col-lg-2.col-md-4.col-2
+      .col-lg-2.col-md-6.col-6.d-none.d-lg-block
         img(src='@/assets/curso/temas/img_intro.png', alt='')
       .col-lg-10.col-md-12.col-sm-12
         p Las fibras textiles son los filamentos procesados para formar hilos o telas para la industria de la confección y corresponden a un insumo que ha venido evolucionando con el tiempo. Inicialmente la industria solo contaba con las fibras que se obtenían de la naturaleza, pero con los avances tecnológicos y la necesidad de contar con fibras de características especiales, ha obligado a realizar estudios y pruebas para poder diseñar fibras artificiales hechas en laboratorios y con características que le dan un valor agregado a las prendas de vestir, tales como: impermeabilidad, efecto antibacterial, protección, resistencia y durabilidad; un número importante de propiedades que permiten que el hombre pueda no solo satisfacer la necesidad básica de protección, si no a la vez contar con características especiales de acuerdo con las necesidades de uso para el campo personal y laboral.

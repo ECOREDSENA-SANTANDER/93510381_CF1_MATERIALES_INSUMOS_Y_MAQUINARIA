@@ -59,6 +59,16 @@ export default {
             titulo: 'Tipos de fibras',
             hash: 't_1_4',
           },
+          {
+            numero: '1.5',
+            titulo: 'Ventajas de acuerdo con el uso',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Tendencia',
+            hash: 't_1_6',
+          },
         ],
       },
 

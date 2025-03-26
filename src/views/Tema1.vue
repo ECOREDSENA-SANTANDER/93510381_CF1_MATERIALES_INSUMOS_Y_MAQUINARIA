@@ -8,13 +8,14 @@
         h1 Fibras
 
       .row.justify-content-center.align-items-center.mb-2(data-aos="fade-left")
-        .col-lg-1.mb-4.col-6.col-md-4
+        .col-lg-1.mb-4.col-4.col-md-3
           img(src='@/assets/curso/temas/Tema1/img01.svg', alt='')
         .col-lg-11
           p La composición de las telas influye en su resistencia al fuego, ya que están formadas por fibras naturales o artificiales. Dependiendo de su tejido y estructura, cada material reacciona de manera distinta al calor, lo que es clave en la confección y su uso.
-
+      
+    
       separador
-      .titulo-segundo.color-acento-contenido
+      #t_1_1.titulo-segundo.mb-5
         h2 1.1 Definición fibras
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -32,7 +33,7 @@
           img(src='@/assets/curso/temas/Tema1/img02.png', alt='')
 
       separador
-      .titulo-segundo.color-acento-contenido
+      #t_1_2.titulo-segundo.mb-5
         h2 1.2 Propiedades de las fibras textiles
 
       p.mb-3 Las propiedades de una fibra se encuentran definidas de acuerdo con su estructura externa, es decir, sus propiedades físicas, su composición química y estructura interna.
@@ -114,7 +115,7 @@
 
 
       separador
-      .titulo-segundo.color-acento-contenido
+      #t_1_3.titulo-segundo.mb-5
         h2 1.3 Clasificación de las fibras
 
       p.mb-5 Las fibras textiles se clasifican en tres categorías principales: según su origen, composición química y presentación. Para comprender los distintos tipos de fibras, sus características y aplicaciones en diversas industrias, es importante conocer la siguiente clasificación:
@@ -197,7 +198,7 @@
 
 
       separador
-      .titulo-segundo.color-acento-contenido
+      #t_1_4.titulo-segundo.mb-5
         h2 1.4 Tipos de fibras
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -772,7 +773,7 @@
               figcaption Fuente: SENA, (2013).
             
       separador
-      .titulo-segundo.color-acento-contenido
+      #t_1_5.titulo-segundo.mb-5
         h2 1.5 Ventajas de acuerdo con el uso
 
       p.mb-5 Después de conocer las aplicaciones de los distintos tipos de fibras naturales y artificiales disponibles en el mercado, es importante repasar las ventajas de cada una en la industria textil. Para ello, se presenta la siguiente información.
@@ -960,7 +961,7 @@
 
 
       separador
-      .titulo-segundo.color-acento-contenido
+      #t_1_6.titulo-segundo.mb-5
         h2 1.6 Tendencia
 
       .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
