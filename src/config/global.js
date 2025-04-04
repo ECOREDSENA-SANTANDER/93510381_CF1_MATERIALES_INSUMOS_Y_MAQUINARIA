@@ -182,7 +182,7 @@ export default {
     {
       termino: 'Elastano',
       significado:
-        'fibra sintética altamente elástica, también conocida como spandex o lycra, utilizada en prendas deportivas y ajustadas.',
+        'fibra sintética altamente elástica, también conocida como <i>spandex</i> o lycra, utilizada en prendas deportivas y ajustadas.',
     },
     {
       termino: 'Fibra',
@@ -337,7 +337,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Erika Daniela Manrique Rueda',
+          nombre: 'Yineth González Quintero',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

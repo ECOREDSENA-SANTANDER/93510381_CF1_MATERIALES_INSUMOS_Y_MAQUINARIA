@@ -61,36 +61,43 @@
   
                     .row.justify-content-center.align-items-center
                       .col-sm-12.col-md-12.col-lg-10
-                        h5.mt-4.mb-4 Color y brillo:
-                        p Característica predominante en fibras naturales. Algunas presentan colores difíciles de blanquear, siendo los tonos blancos los más valorados comercialmente.
-                    
-                    .row.justify-content-center.align-items-center
-                      .col-sm-12.col-md-12.col-lg-10
                         h5.mt-4.mb-4 Forma y sección:
                         p Determina el volumen, cuerpo, textura y tacto de la fibra. Según su forma transversal, pueden ser redondas (nailon, poliéster), acanaladas (rayón, acetato) o almendradas (acrílicos, modacrílicos).
-                        ul.lista-ul
-                          li.d-flex.mb-4
-                            i.fas.fa-check-circle
-                            |La resistencia tiene una relación directa con la longitud e indirecta con la finura. En un material textil con menor longitud, tendrá menor resistencia (fibras celulósicas y proteicas).
-                          li.d-flex
-                            i.fas.fa-check-circle
-                            |Un material textil con mayor resistencia tendrá menor finura.
-                    
                     
                     .row.justify-content-center.align-items-center
                       .col-sm-12.col-md-12.col-lg-10
                         h5.mt-4.mb-4 Carácter: 
                         p Se relaciona con la sensación al tacto, clasificándose en fibras suaves, de superficie uniforme, y fibras rugosas, con textura más áspera.
+                        
+                    
+                    .row.justify-content-center.align-items-center
+                      .col-sm-12.col-md-12.col-lg-10
+                        h5.mt-4.mb-4 Rizado o torcido: 
+                        p Indica la cantidad de ondulaciones o torsiones en una fibra. Un mayor rizado facilita el hilado, mejora la elasticidad, la resistencia a la abrasión, el volumen y la capacidad de retención de calor.
+                    
+                    .row.justify-content-center.align-items-center
+                      .col-sm-12.col-md-12.col-lg-10
+                        h5.mt-4.mb-4 Color y brillo:
+                        p Característica predominante en fibras naturales. Algunas presentan colores difíciles de blanquear, siendo los tonos blancos los más valorados comercialmente.
+
+                    .row.justify-content-center.align-items-center
+                      .col-sm-12.col-md-12.col-lg-10
+                        h5.mt-4.mb-4 Resistencia a la rotura: 
+                        p Se refiere a la capacidad que tiene la fibra para resistir una fuerza aplicada en sentido longitudinal hasta provocar la rotura.
+                        ul.lista-ul
+                          li.d-flex.mb-0
+                            i.fas.fa-check-circle
+                            |La resistencia tiene una relación directa con la longitud e indirecta con la finura. En un material textil con menor longitud, tendrá menor resistencia (fibras celulósicas y proteicas).
+                          li.d-flex.mb-0
+                            i.fas.fa-check-circle
+                            |Un material textil con mayor resistencia tendrá menor finura.
+                   
                     
                     .row.justify-content-center.align-items-center
                       .col-sm-12.col-md-12.col-lg-10
                         h5.mt-4.mb-4 Resistencia: 
                         p Es la capacidad de un material para soportar grandes deformaciones sin fracturarse.
-
-                    .row.justify-content-center.align-items-center
-                      .col-sm-12.col-md-12.col-lg-10
-                        h5.mt-4.mb-4 Rizado o torcido: 
-                        p Indica la cantidad de ondulaciones o torsiones en una fibra. Un mayor rizado facilita el hilado, mejora la elasticidad, la resistencia a la abrasión, el volumen y la capacidad de retención de calor.
+                    
                     
                     .row.justify-content-center.align-items-center
                       .col-sm-12.col-md-12.col-lg-10
@@ -177,7 +184,7 @@
             img(src='@/assets/curso/temas/Tema1/4.svg' alt='')
             .tarjeta.bg1.p-3
               .p-4
-                h5.text-center Reino Animal:
+                h5.text-center Reino animal:
                 p.mb-0.text-center Incluye fibras como algodón, lino, fique o yute, ramio, sisal y cáñamo.
 
         .col-md-6.col-lg.mb-5.mb-lg-0
@@ -185,7 +192,7 @@
             img(src='@/assets/curso/temas/Tema1/5.svg' alt='')
             .tarjeta.bg1.p-3
               .p-4
-                h5.text-center Reino Vegetal:
+                h5.text-center Reino vegetal:
                 p.mb-0.text-center También comprende fibras como algodón, lino, fique o yute, ramio, sisal y cáñamo.
 
         .col-md-6.col-lg.mb-5.mb-lg-0
@@ -193,7 +200,7 @@
             img(src='@/assets/curso/temas/Tema1/6.svg' alt='')
             .tarjeta.bg1.p-3
               .p-4
-                h5.text-center Reino Mineral: 
+                h5.text-center Reino mineral: 
                 p.mb-0.text-center Abarca materiales como asbesto, metales preciosos como plata y oro, y fibra de vidrio.
 
 
@@ -341,7 +348,7 @@
                   li.mb-2.d-flex
                     i.fas.fa-check-circle
                     p #[b Obtención:]
-                      span.px-1  se obtiene de la planta Cannabis sativa, produciendo una fibra de color amarillo grisáceo, similar al lino, pero más gruesa y resistente.
+                      span.px-1  se obtiene de la planta #[em Cannabis sativa], produciendo una fibra de color amarillo grisáceo, similar al lino, pero más gruesa y resistente.
 
                   li.d-flex.mb-2
                     i.fas.fa-check-circle
@@ -426,13 +433,13 @@
             ul.lista-ul
               li.d-flex.mb-0
                 i.fas.fa-check-circle
-                | Viscosa                   
+                | Viscosa.                   
               li.d-flex.mb-0
                 i.fas.fa-check-circle
-                | Rayón
+                | Rayón.
               li.d-flex.mb-0
                 i.fas.fa-check-circle
-                | Acetato
+                | Acetato.
 
         .col-sm-6.col-lg-4.mb-4.mb-lg-0
           .tarjeta--boton.bg1_1.p-4
@@ -449,31 +456,31 @@
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Poliamidas        
+                    | Poliamidas.       
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Nailon
+                    | Nailon.
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Poliolefinas
+                    | Poliolefinas.
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Polietileno 
+                    | Polietileno. 
               
               .col-lg-6.col-5
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Poliamidas        
+                    | Poliamidas.        
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Nailon
+                    | Nailon.
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Poliolefinas
+                    | Poliolefinas.
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Polietileno 
+                    | Polietileno. 
 
         .col-sm-6.col-lg-4.mb-4.mb-lg-0
           .tarjeta--boton.bg1_1.p-4
@@ -490,23 +497,23 @@
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Vidrio   
+                    | Vidrio.   
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Metal
+                    | Metal.
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Alginatos   
+                    | Alginatos.   
 
               .col-lg-6.col-5
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Caucho
+                    | Caucho.
                        
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Lycra 
+                    | Lycra. 
            
 
       TabsA.color-acento-botones(data-aos="fade-down")
@@ -614,7 +621,7 @@
             li.d-flex.mb-2
               i.fas.fa-check-circle
               p #[b Aplicaciones:]
-                span.px-1  se utiliza en la fabricación de medias, telas para paracaídas y airbags.
+                span.px-1  se utiliza en la fabricación de medias, telas para paracaídas y #[em airbags.]
         
         .tarjeta.color-acento-botones--borde.p-4(titulo="Poliéster")
           h4.mb-4 Poliéster
@@ -665,7 +672,7 @@
             li.d-flex.mb-2
               i.fas.fa-check-circle
               p #[b Características:]
-                span.px-1 se distingue por su gran elasticidad y capacidad de adaptarse al cuerpo. Es una fibra liviana, resistente al roce y altamente duradera. Generalmente se combina con otras fibras como poliéster, nailon y algodón, entre otras. En inglés, se conoce como spandex, mientras que Lycra es su nombre comercial más reconocido. Una de sus particularidades es su tendencia a volverse amarillento con el tiempo, especialmente en su versión blanca. Además, tiene una baja capacidad de absorción de humedad.
+                span.px-1 se distingue por su gran elasticidad y capacidad de adaptarse al cuerpo. Es una fibra liviana, resistente al roce y altamente duradera. Generalmente se combina con otras fibras como poliéster, nailon y algodón, entre otras. En inglés, se conoce como #[em spandex], mientras que Lycra es su nombre comercial más reconocido. Una de sus particularidades es su tendencia a volverse amarillento con el tiempo, especialmente en su versión blanca. Además, tiene una baja capacidad de absorción de humedad.
 
             li.d-flex.mb-2
               i.fas.fa-check-circle
@@ -702,7 +709,7 @@
                 figure
                   img(src='@/assets/curso/temas/Tema1/img08.png', alt='')
               .col-lg-9  
-            p.mb-3 #[b Fibras continuas:]  Son filamentos capilares sintéticos y artificiales de longitud ilimitada. Un ejemplo de este tipo de fibra es la seda (Fibras textiles, s.f.).
+            p.mb-3 #[b Fibras continuas:]  son filamentos capilares sintéticos y artificiales de longitud ilimitada. Un ejemplo de este tipo de fibra es la seda (Fibras textiles, s.f.).
         
         .col-sm-6.col-lg-4.mb-4.mb-lg-0  
           .tarjeta--boton.bg1_2.p-4
@@ -711,14 +718,14 @@
                 figure
                   img(src='@/assets/curso/temas/Tema1/img09.png', alt='')
               .col-lg-12 
-                p.mb-3 #[b Fibras discontinuas:] Son fibras de longitud limitada y se clasifican en dos grupos:
+                p.mb-3 #[b Fibras discontinuas:] son fibras de longitud limitada y se clasifican en dos grupos:
                 ul.lista-ul
                   li
                     i.fas.fa-check-circle
-                    | #[b Fibras largas:] Incluyen la lana, el pelo y las fibras manufacturadas cortadas a la longitud de la lana.             
+                    | #[b Fibras largas:] incluyen la lana, el pelo y las fibras manufacturadas cortadas a la longitud de la lana.             
                   li
                     i.fas.fa-check-circle
-                    | #[b Fibras cortas:] Comprenden el algodón y las fibras sintéticas o artificiales cortadas a la longitud del algodón.   
+                    | #[b Fibras cortas:] comprenden el algodón y las fibras sintéticas o artificiales cortadas a la longitud del algodón.   
         .col-sm-6.col-lg-4.mb-4.mb-4
           img(src='@/assets/curso/temas/Tema1/img07.png', alt='')
 
@@ -750,13 +757,13 @@
                         ul.lista-ul.text-start
                           li.mb-0
                             i.fas.fa-check-circle2
-                            | Asbesto
+                            | Asbesto.
                           li.mb-0
                             i.fas.fa-check-circle2
-                            |Fibra de vidrio
+                            |Fibra de vidrio.
                           li.mb-0
                             i.fas.fa-check-circle2
-                            |Hilos metálicos   
+                            |Hilos metálicos.  
                     tr
                       td Fibras Inorgánicas
                       td

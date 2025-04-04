@@ -67,7 +67,7 @@
           span Torsión del hilo 
         figure
           img(src='@/assets/curso/temas/Tema2/figura1.svg', alt='La torsión del hilo influye en la textura y el acabado del tejido, siendo S cuando gira en sentido horario y Z en sentido antihorario.')
-
+        figcaption Fuente: SENA, (2013).
       .col-lg-6
         .col-lg-2.mb-4.col-3.col-md-2
           img(src='@/assets/curso/temas/Tema2/1.svg')
@@ -194,7 +194,7 @@
       .col-sm-12.col-lg-7
         .d-flex.align-items-center
           img.w-card-icon(src="@/assets/curso/temas/Tema1/subt.svg")
-          h3.bg5.py-2.w-card-text.text-white Clasificación basada en sustrato
+          h3.bg5.py-2.w-card-text.text-white Clasificación basada en terminado del hilo
 
     p.mb-4 Dentro de la clasificación del hilo, existen aquellos que se basan en la estructura del terminado. Se dan terminados al hilo por dos propósitos (Coats, s.f.).
 
@@ -275,21 +275,21 @@
             ul.lista-ul
               li.d-flex.mb-0
                 i.fas.fa-check-circle
-                p.mb-0 #[b Muy grueso:] 40 / 3, 40 / 2.
+                p.mb-0 Muy grueso: 40 / 3, 40 / 2.
               li.d-flex.mb-0
                 i.fas.fa-check-circle
-                p.mb-0 #[b Grueso:]  70 / 2, 60 / 2.
+                p.mb-0 Grueso:  70 / 2, 60 / 2.
 
               li.d-flex.mb-0
                 i.fas.fa-check-circle
-                p.mb-0 #[b Mediano:]  100 / 2, 120 / 2.
+                p.mb-0 Mediano: 100 / 2, 120 / 2.
 
               li.d-flex.mb-0
                 i.fas.fa-check-circle
-                p.mb-0 #[b Delgado.] 
+                p.mb-0 Delgado.
               li.d-flex.mb-0
                 i.fas.fa-check-circle
-                p.mb-0 #[b Muy delgado.] 
+                p.mb-0 Muy delgado.
      
       .col-lg-6
         p Durante la fabricación del hilo, este recibe estirajes, y la cantidad de estirajes determina su grosor, por ejemplo: en la numeración 40 / 3, el número antes de la barra indica la cantidad de estirajes realizados, mientras que el número después de la barra representa la cantidad de cabos que conforman el hilo.
