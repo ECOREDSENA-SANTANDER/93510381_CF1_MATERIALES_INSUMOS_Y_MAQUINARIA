@@ -397,11 +397,7 @@
                 p.mb-3 Tex 1": una longitud de 1000 metros de 100 gramos de peso.
                 p En los sistemas de longitud fija, el hilo se vuelve más áspero o pesado mientras aumenta el número de conteo.
 
-    
-    .row.justify-content-start.mb-4(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-12
-        .d-flex.align-items-center.mt-4
-          h3.bg4.py-2.w-card-text2 Recomendaciones para seleccionar el tamaño de hilo a utilizar
+
 
 
     .row.justify-content-center.align-items-center.mb-5
