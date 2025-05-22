@@ -211,7 +211,7 @@
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
           .d-flex.align-items-center
-            img.w-card-icon(src="@/assets/curso/temas/Tema1/subt.svg")
+            img.w-card-icon(src="@/assets/curso/temas/Tema1/pantys.svg")
             h3.bg5.py-2.w-card-text.text-white Fibras de origen animal
 
       p.mb-4 Son aquellas provenientes del reino animal, específicamente de los folículos pilosos.
@@ -268,37 +268,37 @@
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
           .d-flex.align-items-center
-            img.w-card-icon(src="@/assets/curso/temas/Tema1/subt.svg")
+            img.w-card-icon(src="@/assets/curso/temas/Tema1/pantys.svg")
             h3.bg5.py-2.w-card-text.text-white Fibras naturales de origen vegetal
       
       p.mb-4 Desde la perspectiva estructural, las fibras vegetales se dividen en cuatro tipos principales:
       
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
         .col-md-6.col-lg-3.mb-3
-          .tarjeta-numerada.color-primario.p-2
+          .tarjeta-numerada.color-primario
             .tarjeta-numerada__numero
-              .h2 A
+              .h3 A
             br
             p.px-4 #[b Semillas:] fibras extraídas de semillas, siendo el algodón el ejemplo más representativo.
 
         .col-md-6.col-lg-3.mb-3
-          .tarjeta-numerada.color-primario.p-2
+          .tarjeta-numerada.color-primario
             .tarjeta-numerada__numero
-              .h2 B
+              .h3 B
             br
             p.px-4 #[b Tallo:] presentes en el tallo o la corteza de ciertas plantas, como el lino y el cáñamo.
-
+            br
         .col-md-6.col-lg-3.mb-3
-          .tarjeta-numerada.color-primario.p-2
+          .tarjeta-numerada.color-primario
             .tarjeta-numerada__numero
-              .h2 C
+              .h3 C
             br
             p.px-4 #[b Hojas:] obtenidas de hojas y tallos de monocotiledóneas, utilizadas principalmente en la fabricación de cuerdas.
 
         .col-md-6.col-lg-3.mb-3
-          .tarjeta-numerada.color-primario.p-2
+          .tarjeta-numerada.color-primario
             .tarjeta-numerada__numero
-              .h2 D
+              .h3 D
             br
             p.px-4 #[b Gramíneas:] derivadas de los tallos completos de algunas gramíneas, como el esparto y ciertos tipos de paja.
 
@@ -380,7 +380,7 @@
           .row.justify-content-start.mb-4(data-aos="zoom-in-left")
             .col-sm-12.col-lg-7
               .d-flex.align-items-center
-                img.w-card-icon(src="@/assets/curso/temas/Tema1/subt.svg")
+                img.w-card-icon(src="@/assets/curso/temas/Tema1/pantys.svg")
                 h3.bg5.py-2.w-card-text.text-white Fibras naturales de origen mineral
 
       
@@ -406,7 +406,7 @@
       .row.justify-content-start.mb-2(data-aos="fade-right")
         .col-sm-12.col-lg-7
           .d-flex.align-items-center
-            img.w-card-icon(src="@/assets/curso/temas/Tema1/subt.svg")
+            img.w-card-icon(src="@/assets/curso/temas/Tema1/pantys.svg")
             h3.bg5.py-2.w-card-text.text-white Fibras artificiales
 
 

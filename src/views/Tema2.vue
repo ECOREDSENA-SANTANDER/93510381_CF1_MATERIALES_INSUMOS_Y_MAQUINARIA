@@ -117,7 +117,7 @@
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7
         .d-flex.align-items-center
-          img.w-card-icon(src="@/assets/curso/temas/Tema1/subt.svg")
+          img.w-card-icon(src="@/assets/curso/temas/Tema1/pantys.svg")
           h3.bg5.py-2.w-card-text.text-white Clasificación basada en sustrato
 
     p.mb-2 Los hilos pueden estar compuestos por fibras naturales o artificiales. En la siguiente tabla se presenta su origen y tipo de fibra.
@@ -193,7 +193,7 @@
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7
         .d-flex.align-items-center
-          img.w-card-icon(src="@/assets/curso/temas/Tema1/subt.svg")
+          img.w-card-icon(src="@/assets/curso/temas/Tema1/pantys.svg")
           h3.bg5.py-2.w-card-text.text-white Clasificación basada en terminado del hilo
 
     p.mb-4 Dentro de la clasificación del hilo, existen aquellos que se basan en la estructura del terminado. Se dan terminados al hilo por dos propósitos (Coats, s.f.).
@@ -261,7 +261,7 @@
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7
         .d-flex.align-items-center
-          img.w-card-icon(src="@/assets/curso/temas/Tema1/subt.svg")
+          img.w-card-icon(src="@/assets/curso/temas/Tema1/pantys.svg")
           h3.bg5.py-2.w-card-text.text-white Calibres de los hilos
 
     p.mb-4 El calibre o grosor del hilo varía según su uso específico. Antes de elegir un hilo, es fundamental analizar el tipo de puntada, el tejido y la aplicación deseada.
