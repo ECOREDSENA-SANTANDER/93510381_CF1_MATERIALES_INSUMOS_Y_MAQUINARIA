@@ -389,15 +389,15 @@
               h4.mb-4 Asbesto
               ul.lista-ul
                 li.mb-2.d-flex
-                  i.fas.fa-check-circle
+                  i.fas.fa-check-circle-verde
                   p #[b Obtención:]
                     span.px-1  se extrae de minerales metamórficos fibrosos y debe manipularse con precaución debido a sus efectos nocivos para la salud. Su uso ha sido prohibido en muchos países debido a sus propiedades cancerígenas.
                 li.d-flex.mb-2
-                  i.fas.fa-check-circle
+                  i.fas.fa-check-circle-verde
                   p #[b Características:]
                     span.px-1 es una fibra resistente, flexible y capaz de soportar altas temperaturas. Además, posee propiedades aislantes, anticorrosivas e incombustibles.
                 li.d-flex.mb-2
-                  i.fas.fa-check-circle
+                  i.fas.fa-check-circle-verde
                   p #[b Aplicaciones:]
                     span.px-1 se utilizaba en textiles termorresistentes, envases, embalajes, revestimientos, equipos de protección individual y pinturas.
             .col-lg-5.col-md-10
@@ -521,17 +521,17 @@
           h4.mb-4 Viscosa o rayón
           ul.lista-ul
             li.mb-2.d-flex
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Obtención:]
                 span.px-1  se elabora a partir de celulosa extraída de la pulpa de árboles como los abetos.
 
             li.d-flex.mb-2
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Características:]
                 span.px-1 los tejidos de rayón son suaves, ligeros, frescos, cómodos y altamente absorbentes, con una apariencia similar a la seda.
 
             li.d-flex.mb-2
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Aplicaciones:]
                 span.px-1  se utiliza en la fabricación de corbatas, colchas, mantas, tapicería y fundas para decoración.
         
@@ -539,17 +539,17 @@
           h4.mb-4 Oro y plata
           ul.lista-ul
             li.mb-2.d-flex
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Obtención:]
                 span.px-1  estas fibras son rígidas, duras y altamente fibrosas. Para mejorar su resistencia, las hojas de metal se combinan con capas delgadas de plástico. Algunos hilos metálicos tienen un núcleo de algodón envuelto en una tira metálica o están recubiertos con una sustancia viscosa impregnada de polvo metálico.
 
             li.d-flex.mb-2
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Características:]
                 span.px-1  poseen un brillo intenso, un tacto poco suave y pueden transformarse en hilos continuos.
 
             li.d-flex.mb-2
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Aplicaciones:]
                 span.px-1  se emplean en la confección de tejidos para ceremonias religiosas, trajes regionales y vestimenta de toreros.
 
@@ -558,11 +558,11 @@
           h4.mb-4 Acetato
           ul.lista-ul
             li.mb-2.d-flex
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Obtención:]
                 span.px-1 el acetato es una fibra sintética derivada de la celulosa extraída de la madera o del interior del algodón (Coats, s.f.). Se diferencia del rayón viscosa porque se disuelve en ácido acético, lo que altera sus propiedades finales. Las telas de acetato tienen una apariencia similar a la seda y se fabrican con hilos de fibra de acetato de celulosa.
             li.d-flex.mb-2
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Características:]
                 ol.lista-ol
                   li
@@ -587,7 +587,7 @@
                     span
                     |• Requiere lavado en seco.
             li.d-flex.mb-2
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Aplicaciones:]
                 span.px-1 se emplea en la fabricación de prendas como lencería, blusas, vestidos, forros de ropa, trajes y corbatas.
         
@@ -595,11 +595,11 @@
           h4.mb-4 Nailon
           ul.lista-ul
             li.mb-2.d-flex
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Obtención:]
                 span.px-1  polímero termoplástico perteneciente a la familia de las poliamidas.
             li.d-flex.mb-2
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Características:]
                 ol.lista-ol
                   li
@@ -619,7 +619,7 @@
                     |• Baja capacidad de absorción de humedad.
                 
             li.d-flex.mb-2
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Aplicaciones:]
                 span.px-1  se utiliza en la fabricación de medias, telas para paracaídas y #[em airbags.]
         
@@ -627,12 +627,12 @@
           h4.mb-4 Poliéster
           ul.lista-ul
             li.mb-2.d-flex
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Obtención:]
                 span.px-1  polímero termoestable ampliamente utilizado en la industria textil.
 
             li.d-flex.mb-2
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Características:]
                 ol.lista-ol
                   li
@@ -657,7 +657,7 @@
 
 
             li.d-flex.mb-2
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Aplicaciones:]
                 span.px-1 se emplea en la confección de trajes, camisas, vestidos y blusas.
         
@@ -665,17 +665,17 @@
           h4.mb-4 Elastano
           ul.lista-ul
             li.mb-2.d-flex
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Obtención:]
                 span.px-1  es un polímero elastómero perteneciente a la familia de los poliuretanos.
 
             li.d-flex.mb-2
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Características:]
                 span.px-1 se distingue por su gran elasticidad y capacidad de adaptarse al cuerpo. Es una fibra liviana, resistente al roce y altamente duradera. Generalmente se combina con otras fibras como poliéster, nailon y algodón, entre otras. En inglés, se conoce como #[em spandex], mientras que Lycra es su nombre comercial más reconocido. Una de sus particularidades es su tendencia a volverse amarillento con el tiempo, especialmente en su versión blanca. Además, tiene una baja capacidad de absorción de humedad.
 
             li.d-flex.mb-2
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Aplicaciones:]
                 span.px-1 se utiliza en la fabricación de prendas como ropa interior, medias y trajes de baño, aportando flexibilidad y ajuste.
         
@@ -683,15 +683,15 @@
           h4.mb-4 Microfibra
           ul.lista-ul
             li.mb-2.d-flex
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Obtención:]
                 span.px-1  polímero elastómero, compuesto de 80 % poliéster y poliamida un 20 %.
             li.d-flex.mb-2
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Características:]
                 span.px-1 ligero, flexible, suave e indeformable. Gran capacidad de limpieza, resistente a altas temperaturas y con gran capacidad de absorción.
             li.d-flex.mb-2
-              i.fas.fa-check-circle
+              i.fas.fa-check-circle-azul
               p #[b Aplicaciones:]
                 span.px-1 diferentes tipos de toallas y trapos, ropa interior, imitaciones de cuero para la fabricación de abrigos, guantes o tejidos para muebles tapizados.
 
@@ -726,7 +726,7 @@
                   li
                     i.fas.fa-check-circle
                     | #[b Fibras cortas:] comprenden el algodón y las fibras sintéticas o artificiales cortadas a la longitud del algodón.   
-        .col-sm-6.col-lg-4.mb-4.mb-4
+        .col-sm-6.col-lg-4.mb-4.mb-4.col-10.d-none.d-lg-block
           img(src='@/assets/curso/temas/Tema1/img07.png', alt='')
 
 
@@ -739,7 +739,7 @@
 
           .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
             .col-lg-8
-              .titulo-sexto.color-primario(alt='La tabla clasifica las fibras según su composición química en fibras inorgánicas (asbesto, fibra de vidrio, hilos metálicos) y fibras orgánicas , divididas en celulósicas (algodón, lino, viscosa), proteicas (lana, seda, rayón) y parafínicas (nailon, poliéster, polipropileno).')
+              .titulo-sexto.color-acento-contenido(alt='La tabla clasifica las fibras según su composición química en fibras inorgánicas (asbesto, fibra de vidrio, hilos metálicos) y fibras orgánicas , divididas en celulósicas (algodón, lino, viscosa), proteicas (lana, seda, rayón) y parafínicas (nailon, poliéster, polipropileno).')
                 h5 Tabla 1. 
                 span Clasificación química en subgrupos 
 
@@ -787,7 +787,7 @@
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
         .col-lg-9
-          .titulo-sexto.color-primario(alt='Las fibras textiles, tanto naturales como sintéticas, poseen diversas ventajas según su uso. El algodón, lana, seda y lino destacan por su capacidad de absorción de humedad y confort. Entre las fibras sintéticas, el poliéster, acrílico, nailon, viscosa y acetato ofrecen beneficios como resistencia, facilidad de lavado, estabilidad dimensional y buena apariencia, lo que las hace ideales para distintos usos en la industria textil.')
+          .titulo-sexto.color-acento-contenido(alt='Las fibras textiles, tanto naturales como sintéticas, poseen diversas ventajas según su uso. El algodón, lana, seda y lino destacan por su capacidad de absorción de humedad y confort. Entre las fibras sintéticas, el poliéster, acrílico, nailon, viscosa y acetato ofrecen beneficios como resistencia, facilidad de lavado, estabilidad dimensional y buena apariencia, lo que las hace ideales para distintos usos en la industria textil.')
             h5 Tabla 2.
             span  Ventajas de las fibras textiles
 

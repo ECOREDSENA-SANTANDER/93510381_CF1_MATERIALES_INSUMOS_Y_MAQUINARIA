@@ -160,8 +160,13 @@ figcaption
 .tarjeta-numerada.color-primario 
   border-color: #E6EFBF
   background-color: #E6EFBF
-  
-
+ 
+.fa-check-circle-verde, .fa-circle-check-verde
+  --fa: "\f058"
+  color: #C2D960
+.fa-check-circle-azul, .fa-circle-check-azul
+  --fa: "\f058"
+  color: #4598EB
 .tarjeta-numerada.color-primario2 
   border-color: #E8E0EE
   background-color: #E8E0EE
@@ -273,3 +278,28 @@ figcaption
   display: flex
   justify-content: center
   align-items: center
+
+.banner-principal
+  @media (max-width: $bp-max-md)
+    .tarjeta
+      background-image: url('../assets/curso/portada/celular.png') !important
+      background-repeat: no-repeat 
+      background-size: 100% 100%
+      background-position: cover
+    &__info
+      padding-top: 14% !important 
+    h1, p
+      color: $white
+
+
+.banner-principal  
+  @media (min-width: 768px) and (max-width: 1024px)
+    .tarjeta
+      background-image: url('../assets/curso/portada/tablet.png') !important
+      background-repeat: no-repeat 
+      background-size: 100% 100%
+      background-position: cover
+    &__info
+      padding-top: 8% !important 
+    h1, p
+      color: $white

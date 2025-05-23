@@ -17,7 +17,7 @@
             p.mb-3 Los hilos de coser están diseñados para desplazarse rápidamente a través de las máquinas de coser, formando puntadas resistentes y eficientes sin romperse ni deformarse a lo largo de la vida útil del producto. Su función principal es proporcionar resistencia, estética y un buen desempeño en costuras y puntadas.
         p.mb-4 El hilo puede fabricarse con fibras naturales o sintéticas. Entre ellos, el poliéster es uno de los más utilizados debido a su alta resistencia, superior a la del algodón, y a su disponibilidad en una amplia variedad de tamaños y colores (Coats, s.f.).  
       
-      .col-lg-3.col-8.col-md-6
+      .col-lg-3.col-8.col-md-5
         img(src='@/assets/curso/temas/Tema2/img01.png', alt='')
 
     separador
@@ -26,39 +26,27 @@
 
     p.mb-5 Los hilos se fabrican a partir de fibras de origen natural o artificial, e incluso pueden combinar ambos materiales para obtener hilos de mayor calidad. La calidad del hilo se determina mediante tres características principales:
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-        .col-md-8.col-lg-4.mb-3
-          .tarjeta-numerada.color-primario2.p-2
-            .tarjeta-numerada__numero2
-              .h2 A
-            br
-            p.px-4 #[b Textura del hilo:]  un hilo de buena calidad debe tener una hebra brillante, continua y sin flecos.
-
-        .col-md-8.col-lg-4.mb-3
-          .tarjeta-numerada.color-primario2.p-2
-            .tarjeta-numerada__numero2
-              .h2 B
-            br
-            p.px-4 #[b Resistencia del hilo:]  debe ser firme y resistente, sin romperse fácilmente al aplicar una ligera tensión. Si se quiebra con facilidad, indica baja calidad.
-
-        .col-md-8.col-lg-4.mb-3
-          .tarjeta-numerada.color-primario2.p-2
-            .tarjeta-numerada__numero2
-              .h2 C
-            br
-            p.px-4 #[b Torsión del hilo:] influye en el tacto del tejido y en sus posibilidades de acabado. Es un parámetro clave en el diseño textil.
-            ul.lista-ul
-                li.mb-2.d-flex
-                  i.fas.fa-check-circle
-                  p #[b Torsión derecha (S):]
-                    span.px-1 se enrolla en el sentido de las manecillas del reloj.
-          
-                li.d-flex.mb-2
-                  i.fas.fa-check-circle
-                  p #[b Torsión izquierda (Z):]
-                    span.px-1 se enrolla en sentido contrario a las manecillas del reloj.
-                li.d-flex.mb-2
-     
+    TabsA.color-acento-botones(data-aos="fade-down").mb-4
+        .tarjeta.color-acento-botones--borde.p-4(titulo="Textura del hilo")
+          h4.mb-4 Textura del hilo
+          p Un hilo de buena calidad debe tener una hebra brillante, continua y sin flecos.
+        
+        .tarjeta.color-acento-botones--borde.p-4(titulo="Resistencia del hilo")
+          h4.mb-4 Resistencia del hilo
+          p Debe ser firme y resistente, sin romperse fácilmente al aplicar una ligera tensión. Si se quiebra con facilidad, indica baja calidad.
+      
+        .tarjeta.color-acento-botones--borde.p-4(titulo="Torsión del hilo")
+          h4.mb-4 Torsión del hilo
+          p Influye en el tacto del tejido y en sus posibilidades de acabado. Es un parámetro clave en el diseño textil.
+          ul.lista-ul
+            li.mb-2.d-flex
+              i.fas.fa-check-circle
+              p #[b Torsión derecha (S):]
+                span.px-1 se enrolla en el sentido de las manecillas del reloj.
+            li.d-flex.mb-2
+              i.fas.fa-check-circle
+              p #[b Torsión izquierda (Z):]
+                span.px-1 se enrolla en sentido contrario a las manecillas del reloj.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.mb-4.col-md-10
@@ -145,7 +133,7 @@
         p Este tipo de hilo tiene propiedades como alta tenacidad, resistencia a la abrasión y buena resistencia a químicos. No se ven significativamente afectados por la humedad, podredumbre, moho, insectos o bacterias.
         p Ejemplos: nailon, acrílico y poliéster.  
       
-      .col-lg-4.mb-4.col-11.col-md-10
+      .col-lg-4.mb-4.col-11.col-md-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 2. 
           span Hilo con núcleo 
@@ -164,7 +152,7 @@
     .row.fondotema2.align-items-center.py-3
         .col-lg-12.col-12.px-lg-5.px-4
           .row.justify-content-center
-            .col-lg-4.col-11.col-md-10
+            .col-lg-4.col-11.col-md-6
               .titulo-sexto.color-acento-contenido
                 h5 Figura 3.
                 span  Hilo monofilamento 
@@ -172,7 +160,7 @@
                 img(src='@/assets/curso/temas/Tema2/figura3.png', alt='El hilo monofilamento está compuesto por una sola fibra continua de grosor específico. Es fuerte, elástico y apto para tejido, tricotado o trenzado, pero su rigidez y textura áspera limitan su uso a bastillas, cortinas y tapicería.')
               figcaption.mb-4 Fuente: SENA, (2013).
               p El hilo monofilamento se hace de una sola fibra continua de un grosor especificado. Tiene suficiente consistencia y elasticidad para ser tejido, tricotado o trenzado. Aunque es muy fuerte y costoso de hacer, carece de flexibilidad y tiene una textura áspera. Su uso se restringe a bastillas, cortinas y muebles tapizados.
-            .col-lg-4.col-11.col-md-10
+            .col-lg-4.col-11.col-md-6
               .titulo-sexto.color-acento-contenido
                 h5 Figura 4. 
                 span Hilo multifilamento 
@@ -180,7 +168,7 @@
                 img(src='@/assets/curso/temas/Tema2/figura4.png', alt='El hilo multifilamento suave, hecho de nailon o poliéster, destaca por su resistencia. Consta de filamentos continuos torcidos juntos y se usa en calzado, prendas de cuero y productos industriales.')
               figcaption.mb-4 Fuente: SENA, (2013).
               p El hilo multifilamento suave se elabora comúnmente de nailon o poliéster y se usa donde la resistencia es primordial. Está compuesto por dos o más filamentos continuos torcidos juntos. Es común en la costura de zapatos, prendas de cuero y productos industriales.
-            .col-lg-4.col-11.col-md-10
+            .col-lg-4.col-11.col-md-6
               .titulo-sexto.color-acento-contenido
                 h5 Figura 5. 
                 span Hilo de filamento texturizado 
@@ -203,14 +191,14 @@
         .tarjeta--container.row.mb-5
           .col-md.tarjeta.color-primario.p-5
             .row.mb-4
-              .col-3.col-md-5.col-lg-3
+              .col-3.col-md-5.col-lg-2
                 figure
                   img(src='@/assets/curso/temas/Tema2/6.svg', alt='Texto que describa la imagen')          
             p #[b Para mejorar la facilidad de costura:] algunos terminados proporcionan mayor fortaleza, resistencia a la abrasión y lubricación del hilo.
           
           .col-md.tarjeta.bg1.p-5
             .row.mb-4
-              .col-3.col-md-5.col-lg-3
+              .col-3.col-md-5.col-lg-2
                 figure
                   img(src='@/assets/curso/temas/Tema2/7.svg', alt='Texto que describa la imagen')          
             p #[b Para lograr un requisito funcional específico:] algunos terminados incluyen bondeo, antiabsorbencia, antihongo, retardante de fuego, repelente al agua y antiestático.
@@ -220,7 +208,7 @@
       h2 2.3 Tipos de hilos según su aplicación en la industria
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-8.mb-4.col-md-6
+      .col-lg-3.col-8.mb-4.col-md-5
         img(src='@/assets/curso/temas/Tema2/img07.png', alt='Texto que describa la imagen')   
       .col-lg-9.col-11
         SlyderF.circl-arrow.mb-4(columnas="col-lg-6 col-xl-5")
@@ -361,7 +349,7 @@
     p.mb-4 Todos los sistemas de numeración utilizados para indicar el tamaño del hilo se clasifican en dos tipos: sistemas de "peso fijo" o de "longitud fija".
 
     .row.justify-content-center.mb-3
-        .col-lg-3.col-8.mb-4.col-md-6
+        .col-lg-3.col-8.mb-4.col-md-5
           img(src='@/assets/curso/temas/Tema2/img12.png', alt='Texto que describa la imagen')
         .col-lg-9
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -404,7 +392,7 @@
       .col-lg-10
         p Los fabricantes de hilo actualmente utilizan el sistema Tex como método de descripción. Por ejemplo, un Tex 80 es más grueso que un Tex 60.
         p Al seleccionar el tipo y tamaño del hilo, es fundamental considerar que el Tex es una medida de resistencia, utilizada principalmente en hilos de filamento continuo, como poliéster de alta tenacidad, poliamida o rayón.
-      .col-lg-2.col-6
+      .col-lg-2.col-6.col-md-4
         img.mb-4(src='@/assets/curso/temas/Tema2/img13.svg', alt='Texto que describa la imagen')
       p  Generalmente, se emplea una fracción del Tex llamada dTex (decitex), que equivale a su décima parte (1 Tex = 10 dTex). La cual se presenta en la siguiente tabla:
 
