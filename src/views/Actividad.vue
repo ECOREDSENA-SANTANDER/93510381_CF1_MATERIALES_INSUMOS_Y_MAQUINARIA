@@ -237,7 +237,7 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        '¡Excelente trabajo! posee una buena comprensión sobre destrezas en el punto de pago. ¡Siga explorando este fascinante mundo!',
+        '¡Felicidades! Ha demostrado un gran conocimiento sobre las fibras e hilos, sus características y aplicaciones en la industria textil. ¡Continúe aprendiendo y explorando este apasionante tema!',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

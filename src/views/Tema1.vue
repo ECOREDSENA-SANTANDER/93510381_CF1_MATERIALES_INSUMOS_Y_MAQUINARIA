@@ -765,7 +765,7 @@
                             i.fas.fa-check-circle2
                             |Hilos metálicos.  
                     tr
-                      td Fibras Inorgánicas
+                      td Fibras Orgánicas
                       td
                         ul.lista-ul.text-start
                           li.mb-0

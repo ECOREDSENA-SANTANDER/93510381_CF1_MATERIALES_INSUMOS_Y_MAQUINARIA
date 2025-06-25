@@ -113,7 +113,7 @@
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-5
         .d-flex.align-items-center.mt-4
-          h3.bg4.py-2.w-card-text2 Hilo Natural
+          h3.bg4.py-2.w-card-text2 Hilo natural
 
     .row.justify-content-center.mb-4(data-aos="zoom-in-left")
       .col-lg-7.mb-4
@@ -128,7 +128,7 @@
         .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-12
             .d-flex.align-items-center.mt-4
-              h3.bg4.py-2.w-card-text2 Hilo Sintético
+              h3.bg4.py-2.w-card-text2 Hilo sintético
         p Son elaboradas a través de procesos químicos, especialmente de derivados del petróleo, el carbón y otros minerales. También se les conoce como fibras sintéticas.
         p Este tipo de hilo tiene propiedades como alta tenacidad, resistencia a la abrasión y buena resistencia a químicos. No se ven significativamente afectados por la humedad, podredumbre, moho, insectos o bacterias.
         p Ejemplos: nailon, acrílico y poliéster.  
