@@ -752,7 +752,7 @@
                 
                   tbody
                     tr
-                      td Fibras Inorgánicas
+                      td Fibras inorgánicas
                       td
                         ul.lista-ul.text-start
                           li.mb-0
@@ -765,7 +765,7 @@
                             i.fas.fa-check-circle2
                             |Hilos metálicos.  
                     tr
-                      td Fibras Orgánicas
+                      td Fibras orgánicas
                       td
                         ul.lista-ul.text-start
                           li.mb-0
