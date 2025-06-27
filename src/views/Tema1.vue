@@ -969,7 +969,7 @@
 
       separador
       #t_1_6.titulo-segundo.mb-5
-        h2 1.6 Tendencia
+        h2 1.6 Tendencias
 
       .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
         .col-lg-5.mb-4.col-10.col-md-8

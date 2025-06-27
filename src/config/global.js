@@ -66,7 +66,7 @@ export default {
           },
           {
             numero: '1.6',
-            titulo: 'Tendencia',
+            titulo: 'Tendencias',
             hash: 't_1_6',
           },
         ],
