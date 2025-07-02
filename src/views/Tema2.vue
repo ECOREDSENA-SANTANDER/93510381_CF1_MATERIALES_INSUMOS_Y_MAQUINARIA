@@ -55,7 +55,7 @@
           span Torsión del hilo 
         figure
           img(src='@/assets/curso/temas/Tema2/figura1.svg', alt='La torsión del hilo influye en la textura y el acabado del tejido, siendo S cuando gira en sentido horario y Z en sentido antihorario.')
-        figcaption Fuente: SENA, (2013).
+        figcaption Fuente: SENA, (2013)
       .col-lg-6
         .col-lg-2.mb-4.col-3.col-md-2
           img(src='@/assets/curso/temas/Tema2/1.svg')
@@ -139,7 +139,7 @@
           span Hilo con núcleo 
         figure
           img(src='@/assets/curso/temas/Tema2/figura2.png', alt='El hilo con núcleo combina filamentos y fibras cortas, ofreciendo resistencia y facilidad de costura. Es ideal para prendas que requieren alta fortaleza y costura a gran velocidad.')
-        figcaption Fuente: SENA, (2013).
+        figcaption Fuente: SENA, (2013)
       .col-lg-4
         .col-lg-2.mb-4.col-3.col-md-2
           img(src='@/assets/curso/temas/Tema2/2.svg')
@@ -158,7 +158,7 @@
                 span  Hilo monofilamento 
               figure
                 img(src='@/assets/curso/temas/Tema2/figura3.png', alt='El hilo monofilamento está compuesto por una sola fibra continua de grosor específico. Es fuerte, elástico y apto para tejido, tricotado o trenzado, pero su rigidez y textura áspera limitan su uso a bastillas, cortinas y tapicería.')
-              figcaption.mb-4 Fuente: SENA, (2013).
+              figcaption.mb-4 Fuente: SENA, (2013)
               p El hilo monofilamento se hace de una sola fibra continua de un grosor especificado. Tiene suficiente consistencia y elasticidad para ser tejido, tricotado o trenzado. Aunque es muy fuerte y costoso de hacer, carece de flexibilidad y tiene una textura áspera. Su uso se restringe a bastillas, cortinas y muebles tapizados.
             .col-lg-4.col-11.col-md-6
               .titulo-sexto.color-acento-contenido
@@ -166,7 +166,7 @@
                 span Hilo multifilamento 
               figure
                 img(src='@/assets/curso/temas/Tema2/figura4.png', alt='El hilo multifilamento suave, hecho de nailon o poliéster, destaca por su resistencia. Consta de filamentos continuos torcidos juntos y se usa en calzado, prendas de cuero y productos industriales.')
-              figcaption.mb-4 Fuente: SENA, (2013).
+              figcaption.mb-4 Fuente: SENA, (2013)
               p El hilo multifilamento suave se elabora comúnmente de nailon o poliéster y se usa donde la resistencia es primordial. Está compuesto por dos o más filamentos continuos torcidos juntos. Es común en la costura de zapatos, prendas de cuero y productos industriales.
             .col-lg-4.col-11.col-md-6
               .titulo-sexto.color-acento-contenido
@@ -174,7 +174,7 @@
                 span Hilo de filamento texturizado 
               figure
                 img(src='@/assets/curso/temas/Tema2/figura5.png', alt='El hilo de filamento texturizado, principalmente de poliéster, se usa en hilos de lanzadera para puntadas de cobertura, brindando mayor extensibilidad y evitando enredos.')
-              figcaption.mb-4 Fuente: SENA, (2013).
+              figcaption.mb-4 Fuente: SENA, (2013)
               p El hilo de filamento texturizado es usado principalmente en poliéster, se emplea en hilos de lanzadera para puntadas de cobertura. Los filamentos texturizados ofrecen mayor cobertura y extensibilidad, asegurando que el hilo esté más sujeto y evitando que se enrede.
               p Para mejorar la facilidad de costura: algunos terminados proporcionan mayor fortaleza, resistencia a la abrasión y lubricación del hilo.
     .py-4
@@ -263,14 +263,14 @@
             ul.lista-ul
               li.d-flex.mb-0
                 i.fas.fa-check-circle
-                p.mb-0 Muy grueso: 40 / 3, 40 / 2.
+                p.mb-0 Muy grueso: 40/3, 40/2.
               li.d-flex.mb-0
                 i.fas.fa-check-circle
-                p.mb-0 Grueso:  70 / 2, 60 / 2.
+                p.mb-0 Grueso:  70/2, 60/2.
 
               li.d-flex.mb-0
                 i.fas.fa-check-circle
-                p.mb-0 Mediano: 100 / 2, 120 / 2.
+                p.mb-0 Mediano: 100/2, 120/2.
 
               li.d-flex.mb-0
                 i.fas.fa-check-circle
@@ -424,7 +424,7 @@
                       td Tejido pesado 
                       td 25
                       td 120 Tex
-              figcaption Fuente: SENA, (2013).
+              figcaption Fuente: SENA, (2013)
 
     
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")

@@ -50,39 +50,39 @@
                   SlyderA(tipo="b")
                     .row.justify-content-center.align-items-center
                       .col-sm-12.col-md-12.col-lg-10
-                        h5.mt-4 Longitud: 
+                        h5.mt-4 Longitud
                         p.mb-4 Se refiere a la distancia entre los extremos de la fibra, medida en milímetros o pulgadas. Según su longitud, pueden ser filamentos, fibras cortas o cables de filamentos continuos. Para el hilado, deben tener al menos 5 mm, lo que garantiza flexibilidad, cohesión y resistencia.
               
                     .row.justify-content-center.align-items-center
                       .col-sm-12.col-md-12.col-lg-10
-                        h5.mt-4.mb-4 Diámetro o finura: 
+                        h5.mt-4.mb-4 Diámetro o finura
                         p Influye en la suavidad y caída de la tela. Se mide en micras o milésimas de milímetro, y su valor promedio determina el grosor de las fibras. Las fibras sintéticas tienen un diámetro más uniforme que las naturales.
                        
   
                     .row.justify-content-center.align-items-center
                       .col-sm-12.col-md-12.col-lg-10
-                        h5.mt-4.mb-4 Forma y sección:
+                        h5.mt-4.mb-4 Forma y sección
                         p Determina el volumen, cuerpo, textura y tacto de la fibra. Según su forma transversal, pueden ser redondas (nailon, poliéster), acanaladas (rayón, acetato) o almendradas (acrílicos, modacrílicos).
                     
                     .row.justify-content-center.align-items-center
                       .col-sm-12.col-md-12.col-lg-10
-                        h5.mt-4.mb-4 Carácter: 
+                        h5.mt-4.mb-4 Carácter
                         p Se relaciona con la sensación al tacto, clasificándose en fibras suaves, de superficie uniforme, y fibras rugosas, con textura más áspera.
                         
                     
                     .row.justify-content-center.align-items-center
                       .col-sm-12.col-md-12.col-lg-10
-                        h5.mt-4.mb-4 Rizado o torcido: 
+                        h5.mt-4.mb-4 Rizado o torcido
                         p Indica la cantidad de ondulaciones o torsiones en una fibra. Un mayor rizado facilita el hilado, mejora la elasticidad, la resistencia a la abrasión, el volumen y la capacidad de retención de calor.
                     
                     .row.justify-content-center.align-items-center
                       .col-sm-12.col-md-12.col-lg-10
-                        h5.mt-4.mb-4 Color y brillo:
+                        h5.mt-4.mb-4 Color y brillo
                         p Característica predominante en fibras naturales. Algunas presentan colores difíciles de blanquear, siendo los tonos blancos los más valorados comercialmente.
 
                     .row.justify-content-center.align-items-center
                       .col-sm-12.col-md-12.col-lg-10
-                        h5.mt-4.mb-4 Resistencia a la rotura: 
+                        h5.mt-4.mb-4 Resistencia a la rotura
                         p Se refiere a la capacidad que tiene la fibra para resistir una fuerza aplicada en sentido longitudinal hasta provocar la rotura.
                         ul.lista-ul
                           li.d-flex.mb-0
@@ -95,14 +95,14 @@
                     
                     .row.justify-content-center.align-items-center
                       .col-sm-12.col-md-12.col-lg-10
-                        h5.mt-4.mb-4 Resistencia: 
+                        h5.mt-4.mb-4 Resistencia
                         p Es la capacidad de un material para soportar grandes deformaciones sin fracturarse.
                     
                     
                     .row.justify-content-center.align-items-center
                       .col-sm-12.col-md-12.col-lg-10
                         br
-                        h5.mb-2 Elasticidad: 
+                        h5.mb-2 Elasticidad 
                         p Esta propiedad se refiere a la cantidad en longitud que puede recuperar una fibra sometida a esfuerzos de tensión, siempre que la fuerza deje de actuar. Se expresa en función de porcentaje y en su cálculo intervienen tres factores:
                         ul.lista-ul
                           li.d-flex.mb-0
@@ -184,7 +184,7 @@
             img(src='@/assets/curso/temas/Tema1/4.svg' alt='')
             .tarjeta.bg1.p-3
               .p-4
-                h5.text-center Reino animal:
+                h5.text-center Reino animal
                 p.mb-0.text-center Incluye fibras como algodón, lino, fique o yute, ramio, sisal y cáñamo.
 
         .col-md-6.col-lg.mb-5.mb-lg-0
@@ -192,7 +192,7 @@
             img(src='@/assets/curso/temas/Tema1/5.svg' alt='')
             .tarjeta.bg1.p-3
               .p-4
-                h5.text-center Reino vegetal:
+                h5.text-center Reino vegetal
                 p.mb-0.text-center También comprende fibras como algodón, lino, fique o yute, ramio, sisal y cáñamo.
 
         .col-md-6.col-lg.mb-5.mb-lg-0
@@ -200,7 +200,7 @@
             img(src='@/assets/curso/temas/Tema1/6.svg' alt='')
             .tarjeta.bg1.p-3
               .p-4
-                h5.text-center Reino mineral: 
+                h5.text-center Reino mineral
                 p.mb-0.text-center Abarca materiales como asbesto, metales preciosos como plata y oro, y fibra de vidrio.
 
 
@@ -777,7 +777,7 @@
                           li.mb-0
                             i.fas.fa-check-circle2
                             |#[b Parafínicas:] nailon, poliéster polipropileno.   
-              figcaption Fuente: SENA, (2013).
+              figcaption Fuente: SENA, (2013)
             
       separador
       #t_1_5.titulo-segundo.mb-5
@@ -964,7 +964,7 @@
                       li.mb-0
                         i.fas.fa-check-circle2
                         |Brillo.                                                                                         
-            figcaption Fuente: SENA, (2013).
+            figcaption Fuente: SENA, (2013)
 
 
       separador
