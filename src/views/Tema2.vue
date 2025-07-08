@@ -108,7 +108,7 @@
           img.w-card-icon(src="@/assets/curso/temas/Tema1/pantys.svg")
           h3.bg5.py-2.w-card-text.text-white Clasificación basada en sustrato
 
-    p.mb-2 Los hilos pueden estar compuestos por fibras naturales o artificiales. En la siguiente tabla se presenta su origen y tipo de fibra.
+    p.mb-2 Los hilos pueden estar compuestos por fibras naturales o artificiales. 
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-5
@@ -129,7 +129,7 @@
           .col-sm-12.col-lg-12
             .d-flex.align-items-center.mt-4
               h3.bg4.py-2.w-card-text2 Hilo sintético
-        p Son elaboradas a través de procesos químicos, especialmente de derivados del petróleo, el carbón y otros minerales. También se les conoce como fibras sintéticas.
+        p Es elaborado a través de procesos químicos, especialmente de derivados del petróleo, el carbón y otros minerales. También se les conoce como fibras sintéticas.
         p Este tipo de hilo tiene propiedades como alta tenacidad, resistencia a la abrasión y buena resistencia a químicos. No se ven significativamente afectados por la humedad, podredumbre, moho, insectos o bacterias.
         p Ejemplos: nailon, acrílico y poliéster.  
       
@@ -280,7 +280,7 @@
                 p.mb-0 Muy delgado.
      
       .col-lg-6
-        p Durante la fabricación del hilo, este recibe estirajes, y la cantidad de estirajes determina su grosor, por ejemplo: en la numeración 40 / 3, el número antes de la barra indica la cantidad de estirajes realizados, mientras que el número después de la barra representa la cantidad de cabos que conforman el hilo.
+        p Durante la fabricación del hilo, este recibe estirajes, y la cantidad de estirajes determina su grosor, por ejemplo: en la numeración 40/3, el número antes de la barra indica la cantidad de estirajes realizados, mientras que el número después de la barra representa la cantidad de cabos que conforman el hilo.
         p Para elegir el calibre adecuado, es fundamental considerar el tipo de tela que se va a coser.
 
 
@@ -310,7 +310,7 @@
 
           li.d-flex.mb-0
             i.fas.fa-check-circle
-            |Calibre 20: usado en costuras generales de pantalones, chaquetas o jeans.
+            |Calibre 20: usado en costuras generales de pantalones, chaquetas o #[em jeans.]
 
           li.d-flex.mb-0
             i.fas.fa-check-circle
@@ -360,8 +360,8 @@
                   li.mb-2.d-flex
                     i.fas.fa-check-circle
                     p.mb-0 Sistemas bajo peso fijo:
-                  .mb-0 Conteo Inglés (Ne) = número de madejas de 840 yardas / libra.
-                  .mb-0 Conteo Métrico (Nm) = número de madejas de 1000 metros / kg.
+                  .mb-0 Conteo inglés (Ne) = número de madejas de 840 yardas / libra.
+                  .mb-0 Conteo métrico (Nm) = número de madejas de 1000 metros / kg.
                  
                 p Ejemplo:
                 p.mb-0 Ne 1: en una libra de peso de hilo, hay 840 yardas de longitud de estambre.
@@ -439,22 +439,22 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-          .row.justify-content-center.align-items-center(titulo="Identificar y definir el tipo de costura a realizar.")
+          .row.justify-content-center.align-items-center(titulo="Identificar y definir el tipo de costura a realizar")
             .col-md-12.mb-4.mb-md-0.col-lg-11
               p Cada tipo de tela requiere hilos y agujas especiales, dependiendo de la técnica que se vaya a realizar, por ejemplo, fruncidos, costura recta, bordado, etc.
-          .row.justify-content-center.align-items-center(titulo="Conocer la variedad de hilos que existen.")
+          .row.justify-content-center.align-items-center(titulo="Conocer la variedad de hilos que existen")
             .col-md-12.mb-4.mb-md-0.col-lg-11
               p En el mercado existe hilo para cada tela y operación a realizar, es muy importante identificarlos para su correcta utilización.
-          .row.justify-content-center.align-items-center(titulo="Definir la calidad del hilo que necesita utilizar.")
+          .row.justify-content-center.align-items-center(titulo="Definir la calidad del hilo que necesita utilizar")
             .col-md-12.mb-4.mb-md-0.col-lg-11
               p Es necesario conocer las propiedades y cualidades de cada hilo para decidir su funcionalidad.
-          .row.justify-content-center.align-items-center(titulo="Seleccionar el hilo según el color de la tela.")
+          .row.justify-content-center.align-items-center(titulo="Seleccionar el hilo según el color de la tela")
             .col-md-12.mb-4.mb-md-0.col-lg-11
               p Después de escoger la clase de hilo que va a utilizar, es muy importante que el color sea igual o muy parecido a la tela.
-          .row.justify-content-center.align-items-center(titulo="Consultar las instrucciones de costura.")
+          .row.justify-content-center.align-items-center(titulo="Consultar las instrucciones de costura")
             .col-md-12.mb-4.mb-md-0.col-lg-11
               p Es muy importante leer las instrucciones de uso de cada hilo y seguirlas al pie de la letra para asegurarse de que el resultado será el correcto.
-          .row.justify-content-center.align-items-center(titulo="Comprar siempre hilos de buena calidad.")
+          .row.justify-content-center.align-items-center(titulo="Comprar siempre hilos de buena calidad")
             .col-md-12.mb-4.mb-md-0.col-lg-11
               p Se debe comprar hilos de excelente calidad y así garantizar una prenda de muy buena calidad y durabilidad.
         

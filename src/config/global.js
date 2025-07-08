@@ -148,19 +148,18 @@ export default {
   },
   complementario: [
     {
-      tema:
-        'Fibras textiles naturales sustentables y nuevos hábitos de consumo.',
+      tema: 'Fibras',
       referencia:
         'Marín, C. V., & Monroy, B. G. (2013). Fibras textiles naturales sustentables y nuevos hábitos de consumo. Revista Legado de Arquitectura y Diseño, (13), 31-45.',
       tipo: 'PDF',
-      link: 'https://www.redalyc.org/pdf/4779/477947372003.pdf',
+      link: 'https://www.redalyc.org/pdf/4779/477947372003.pdf ',
     },
     {
-      tema: 'Hilos y sus propiedades.',
+      tema: 'Hilos',
       referencia:
         'Ticona Apaza, L. & Humpiri Flórez, M.E. (2020). Aprendizaje de la resistencia a la tracción de hilos industriales en estudiantes de Ingeniería Téxtil. ÑAWPARISUN – Revista de Investigación Científica, 3 (1), 49-58.',
       tipo: 'PDF',
-      link: 'https://www.unaj.edu.pe/revista/index.php/vpin/article/view/126',
+      link: 'https://www.unaj.edu.pe/revista/index.php/vpin/article/view/126 ',
     },
   ],
   glosario: [
@@ -182,7 +181,7 @@ export default {
     {
       termino: 'Elastano',
       significado:
-        'fibra sintética altamente elástica, también conocida como <i>spandex</i> o lycra, utilizada en prendas deportivas y ajustadas.',
+        'fibra sintética altamente elástica, también conocida como <i>spandex</i> o <i>lycra</i>, utilizada en prendas deportivas y ajustadas.',
     },
     {
       termino: 'Fibra',
@@ -273,7 +272,7 @@ export default {
     },
     {
       referencia:
-        'SENA. (2013). Modistería: hilos y tela. Centro de Gestión de Mercados, logística y TIC´s: Bogotá, Colombia [Versión en línea].',
+        'SENA. (2013). Modistería: hilos y tela. Centro de Gestión de Mercados, logística y TIC´s: Bogotá, Colombia.',
       link: '',
     },
   ],

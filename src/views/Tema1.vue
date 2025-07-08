@@ -87,7 +87,7 @@
                         ul.lista-ul
                           li.d-flex.mb-0
                             i.fas.fa-check-circle
-                            |La resistencia tiene una relación directa con la longitud e indirecta con la finura. En un material textil con menor longitud, tendrá menor resistencia (fibras celulósicas y proteicas).
+                            |La resistencia tiene una relación directa con la longitud e indirecta con la finura. Un material textil con menor longitud tendrá menor resistencia (fibras celulósicas y proteicas).
                           li.d-flex.mb-0
                             i.fas.fa-check-circle
                             |Un material textil con mayor resistencia tendrá menor finura.
@@ -225,7 +225,7 @@
                 li.mb-2.d-flex
                   i.fas.fa-check-circle
                   p #[b Obtención:]
-                    span.px-1 se obtiene principalmente de animales ovinos, como ovejas y carneros, a través del esquilado periódico. También proviene del pelo de otros animales como cabras, llamas, alpacas y vicuñas.
+                    span.px-1 principalmente de animales ovinos, como ovejas y carneros, a través del esquilado periódico. También proviene del pelo de otros animales como cabras, llamas, alpacas y vicuñas.
           
                 li.d-flex.mb-2
                   i.fas.fa-check-circle
@@ -451,7 +451,7 @@
                 h4.text-center.bg3.p-1 Fibras sintéticas
             p.mb-3 Se producen a partir de compuestos químicos derivados del petróleo y otros polímeros sintéticos. Son resistentes, duraderas y de fácil mantenimiento. 
             p Ejemplos:
-            .row.justify-content-center.mb-3
+            .row.mb-3
               .col-lg-6.col-5
                 ul.lista-ul
                   li.d-flex.mb-0
@@ -467,20 +467,7 @@
                     i.fas.fa-check-circle
                     | Polietileno. 
               
-              .col-lg-6.col-5
-                ul.lista-ul
-                  li.d-flex.mb-0
-                    i.fas.fa-check-circle
-                    | Poliamidas.        
-                  li.d-flex.mb-0
-                    i.fas.fa-check-circle
-                    | Nailon.
-                  li.d-flex.mb-0
-                    i.fas.fa-check-circle
-                    | Poliolefinas.
-                  li.d-flex.mb-0
-                    i.fas.fa-check-circle
-                    | Polietileno. 
+             
 
         .col-sm-6.col-lg-4.mb-4.mb-lg-0
           .tarjeta--boton.bg1_1.p-4
@@ -513,7 +500,7 @@
                        
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Lycra. 
+                    | #[em Lycra.] 
            
 
       TabsA.color-acento-botones(data-aos="fade-down")
@@ -672,7 +659,7 @@
             li.d-flex.mb-2
               i.fas.fa-check-circle-azul
               p #[b Características:]
-                span.px-1 se distingue por su gran elasticidad y capacidad de adaptarse al cuerpo. Es una fibra liviana, resistente al roce y altamente duradera. Generalmente se combina con otras fibras como poliéster, nailon y algodón, entre otras. En inglés, se conoce como #[em spandex], mientras que Lycra es su nombre comercial más reconocido. Una de sus particularidades es su tendencia a volverse amarillento con el tiempo, especialmente en su versión blanca. Además, tiene una baja capacidad de absorción de humedad.
+                span.px-1 se distingue por su gran elasticidad y capacidad de adaptarse al cuerpo. Es una fibra liviana, resistente al roce y altamente duradera. Generalmente se combina con otras fibras como poliéster, nailon y algodón, entre otras. En inglés, se conoce como #[em spandex], mientras que #[em lycra] es su nombre comercial más reconocido. Una de sus particularidades es su tendencia a volverse amarillento con el tiempo, especialmente en su versión blanca. Además, tiene una baja capacidad de absorción de humedad.
 
             li.d-flex.mb-2
               i.fas.fa-check-circle-azul
