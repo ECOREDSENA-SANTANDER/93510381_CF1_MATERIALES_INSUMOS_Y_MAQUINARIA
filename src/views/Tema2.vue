@@ -310,7 +310,7 @@
 
           li.d-flex.mb-0
             i.fas.fa-check-circle
-            |Calibre 20: usado en costuras generales de pantalones, chaquetas o #[em jeans.]
+            p.mb-0 Calibre 20: usado en costuras generales de pantalones, chaquetas o #[em jeans.]
 
           li.d-flex.mb-0
             i.fas.fa-check-circle
