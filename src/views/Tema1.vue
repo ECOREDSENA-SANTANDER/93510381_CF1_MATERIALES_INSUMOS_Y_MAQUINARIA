@@ -466,20 +466,18 @@
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
                     | Polietileno. 
-                  li.d-flex.mb-0
-                    i.fas.fa-check-circle
-                    | Polipropileno. 
+                  
               .col-lg-6.col-5
-                ul.lista-ul     
+                ul.lista-ul
+                  li.d-flex.mb-0
+                    i.fas.fa-check-circle
+                    | Polipropileno.      
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
                     | Poliuretanos. 
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
-                    | Acrílicos. 
-                  li.d-flex.mb-0
-                    i.fas.fa-check-circle
-                    | Poliuretanos. 
+                    | Acrílicos.  
                   li.d-flex.mb-0
                     i.fas.fa-check-circle
                     | Poliéster 
