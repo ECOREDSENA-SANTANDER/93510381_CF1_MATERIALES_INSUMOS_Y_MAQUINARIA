@@ -217,7 +217,7 @@ export default {
         {
           id: 10,
           texto:
-            'El hilo se puede clasificar de diferentes maneras, algunas clasificaciones comunes se basan en: substrato, construcción y terminado.',
+            'El hilo se puede clasificar de diferentes maneras, algunas clasificaciones comunes se basan en: sustrato, construcción y terminado.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

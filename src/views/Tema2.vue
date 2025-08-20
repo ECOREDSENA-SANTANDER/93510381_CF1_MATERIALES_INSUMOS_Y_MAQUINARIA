@@ -417,7 +417,7 @@
                       td 120
                       td 60 Tex
                     tr
-                      td Tejidos semi pesado
+                      td Tejidos semipesado
                       td 75
                       td 40 Tex
                     tr
