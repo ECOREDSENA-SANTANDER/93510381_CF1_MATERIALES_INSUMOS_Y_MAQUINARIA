@@ -255,7 +255,7 @@ export default {
       link: 'https://www.coats.com/en-us/products/yarns/',
     },
     {
-      referencia: 'Coats. (s.f.). Todo sobre compuestos. España.d',
+      referencia: 'Coats. (s.f.). Todo sobre compuestos. España.',
       link: 'https://www.coats.com/en-us/products/composites/',
     },
     {
