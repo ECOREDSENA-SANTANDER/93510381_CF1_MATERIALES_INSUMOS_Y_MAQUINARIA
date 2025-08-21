@@ -5,7 +5,7 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 1
-        h1 Fibras
+        h1 Fibrasd
 
       .row.justify-content-center.align-items-center.mb-2(data-aos="fade-left")
         .col-lg-1.mb-4.col-4.col-md-3
