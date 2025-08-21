@@ -251,23 +251,22 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Coats. (s.f.). Todo sobre hilos. España. Recuperado de',
+      referencia: 'Coats. (s.f.). Todo sobre hilos. España.',
       link: 'https://www.coats.com/en-us/products/yarns/',
     },
     {
-      referencia:
-        'Coats. (s.f.). Todo sobre compuestos. España. Recuperado de ',
+      referencia: 'Coats. (s.f.). Todo sobre compuestos. España.',
       link: 'https://www.coats.com/en-us/products/composites/',
     },
     {
       referencia:
-        'Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). (2009). Perfiles de 15 de las principales fibras de origen vegetal y animal. Recuperado de',
+        'Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). (2009). Perfiles de 15 de las principales fibras de origen vegetal y animal.',
       link:
         'http://www.fao.org/natural-fibres-2009/about/15-natural-fibres/es/',
     },
     {
       referencia:
-        'Carrera Gallissà, E. (2017). Física textil: propiedades físicas para caracterizar la calidad de las fibras textiles. Recuperado de ',
+        'Carrera Gallissà, E. (2017). Física textil: propiedades físicas para caracterizar la calidad de las fibras textiles.',
       link: 'https://upcommons.upc.edu/handle/2117/106313',
     },
     {
